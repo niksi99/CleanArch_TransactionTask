@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\19sta\\OneDrive\\Documents\\CleanArch_TransactionTask\\CleanArch_TransactionTask.Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4389C0E0-68FD-4A6F-9CC0-DE3DAF6837DE}|CleanArch_TransactionTask.Domain\\CleanArch_TransactionTask.Domain.csproj|c:\\users\\19sta\\onedrive\\documents\\cleanarch_transactiontask\\cleanarch_transactiontask.domain\\cleanarch_transactiontask.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4389C0E0-68FD-4A6F-9CC0-DE3DAF6837DE}|CleanArch_TransactionTask.Domain\\CleanArch_TransactionTask.Domain.csproj|solutionrelative:cleanarch_transactiontask.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\19sta\\OneDrive\\Documents\\CleanArch_TransactionTask\\CleanArch_TransactionTask.Domain\\CleanArch_TransactionTask.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "CleanArch_TransactionTask.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\19sta\\OneDrive\\Documents\\CleanArch_TransactionTask\\CleanArch_TransactionTask.Domain\\CleanArch_TransactionTask.Domain\\Class1.cs",
+              "RelativeToolTip": "CleanArch_TransactionTask.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:10:07.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
