@@ -6,9 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArch_TransactionTask.Application.Repository
+namespace CleanArch_TransactionTask.Application.Services.Interfaces
 {
-    public interface ICurrencyRepository
+    public interface ICurrencyService
     {
         List<Currency> GetAllCurrencies();
         public Currency CreateNewCurrency(CreateUserDTO currency);
